@@ -20,6 +20,8 @@ TC = O(H) -> Balanced Tree : O(log N) , Skewed Tree : O(N)
 SC = O(H) -> Recursive stack space
 ```
 
+---
+
 ### Optimal
 ```cpp
 TreeNode* searchBST(TreeNode* root, int val) {

@@ -1,4 +1,4 @@
-# 🟡 02 - Longest Substring Without Repeating Characters
+# 🟡 01 - Longest Substring Without Repeating Characters
 
 ### Brute
 ```cpp

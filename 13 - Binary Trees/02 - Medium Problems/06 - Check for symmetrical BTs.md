@@ -1,4 +1,4 @@
-# 🟡 05 - Check for symmetrical BTs
+# 🟡 06 - Check for symmetrical BTs
 
 ### Iterative BFS
 ```cpp

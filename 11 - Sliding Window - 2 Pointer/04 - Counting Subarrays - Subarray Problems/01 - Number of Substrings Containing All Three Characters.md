@@ -1,4 +1,4 @@
-# 🔴 01 - Number of Substrings Containing All Three Characters
+# 🟡 01 - Number of Substrings Containing All Three Characters
 
 ### Brute
 ```cpp
